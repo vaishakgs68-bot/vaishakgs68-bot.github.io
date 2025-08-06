@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 2em;
+  background: #f9f9f9;
+  color: #333;
+}
+header, nav, section, footer {
+  margin-bottom: 2em;
+}
+nav a {
+  margin-right: 1em;
+}
